@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e2ea7df-880d-42d9-a12b-c2f9f03feed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AssertJDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ParametrizedTestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RepeatedTestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StackPopAndPeekTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestInfoDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestReporterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestingAStackDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestReporterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -65,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ParametrizedTestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+            <state relative-caret-position="102">
+              <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="45" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#340#341#0" expanded="true" />
@@ -124,8 +115,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-34" />
-    <option name="y" value="154" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="952" />
   </component>
@@ -173,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570283615498" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570283873551" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -283,8 +273,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570261619607</updated>
-      <workItem from="1570261625016" duration="17121000" />
+      <workItem from="1570261625016" duration="17289000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1570283742772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570283742772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -320,11 +318,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17121000" />
+    <option name="totallyTimeSpent" value="17289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="952" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -337,11 +334,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3791411" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.37869823" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36094674" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36094674" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,6 +386,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar!/org/junit/jupiter/api/Assertions.class">
@@ -530,20 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestReporterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RepeatedTestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -617,14 +604,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ParametrizedTestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+        <state relative-caret-position="102">
+          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="45" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#340#341#0" expanded="true" />
             <element signature="e#427#428#0" expanded="true" />
             <element signature="e#1063#1064#0" expanded="true" />
             <element signature="e#1111#1112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestReporterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
           </folding>
         </state>
       </provider>
